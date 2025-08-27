@@ -1,0 +1,133 @@
+## Google
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,people-pa.clients6.google.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+
+## OpenAI
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai-api.arkoselabs.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.org
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+
+## Discord
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,discord.gd
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
+
+## Twitter / X
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.co
+DOMAIN-SUFFIX,x.com
+
+## Spotify
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,spotifycdn.com
+
+DOMAIN-SUFFIX,## Facebook / Instagram / Meta
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,meta.com
+
+## SoundCloud
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+
+## Proton
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.com
+
+## Anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+## DNS / VPN / Privacy
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,whoer.net
+
+## Tech / Dev / Cloud
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,blog.com
+DOMAIN-SUFFIX,blogcdn.com
+DOMAIN-SUFFIX,blogsmithmedia.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,eurekavpt.com
+DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,sstatic.net
+DOMAIN-SUFFIX,thepiratebay.org
+
+## Other
+DOMAIN-SUFFIX,donmai.us
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub
+DOMAIN-SUFFIX,livecamrips.su
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,nnm-club-me.ru
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pornolab.net
+DOMAIN-SUFFIX,reactor.cc
+DOMAIN-SUFFIX,stakan.io
+DOMAIN-SUFFIX,yr.no
+DOMAIN-SUFFIX,grizzlysms.com
