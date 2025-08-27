@@ -16,10 +16,12 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,people-pa.clients6.google.com
 DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,ytimg.l.google.com
+DOMAIN-SUFFIX,ytstatic.l.google.com
 
 ## OpenAI
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
@@ -31,6 +33,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,sora.com
 
 ## Discord
 DOMAIN-SUFFIX,discord-activities.com
@@ -64,12 +67,13 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotify.link
 DOMAIN-SUFFIX,spotifycdn.com
 
-DOMAIN-SUFFIX,## Facebook / Instagram / Meta
+## Facebook / Instagram / Meta
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,meta.com
@@ -113,22 +117,29 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,thepiratebay.org
 
 ## Other
+DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,donmai.us
+DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,grizzlysms.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,hqporner.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinopub
 DOMAIN-SUFFIX,livecamrips.su
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,nnm-club-me.ru
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,reactor.cc
+DOMAIN-SUFFIX,skladchina.biz
+DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,stakan.io
 DOMAIN-SUFFIX,yr.no
-DOMAIN-SUFFIX,grizzlysms.com
-DOMAIN-SUFFIX,ntc.party
