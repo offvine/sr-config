@@ -116,6 +116,26 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,thepiratebay.org
 
+## Lampa
+DOMAIN-SUFFIX,batmen.my.to
+DOMAIN-SUFFIX,bwa.to
+DOMAIN-SUFFIX,cub.red
+DOMAIN-SUFFIX,cub.rip
+DOMAIN-SUFFIX,durex.monster
+DOMAIN-SUFFIX,filmix.my
+DOMAIN-SUFFIX,hdrezka.ag
+DOMAIN-SUFFIX,kurwa-bober.ninja
+DOMAIN-SUFFIX,lampa.stream
+DOMAIN-SUFFIX,nackhui.com
+DOMAIN-SUFFIX,rezka.ag
+DOMAIN-SUFFIX,rootu.top
+DOMAIN-SUFFIX,s2517.com
+DOMAIN-SUFFIX,service-kp.com
+DOMAIN-SUFFIX,skaztv.online
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,werkecdn.me
+DOMAIN-SUFFIX,workers.dev
+
 ## Other
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,donmai.us
@@ -143,26 +163,6 @@ DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,stakan.io
 DOMAIN-SUFFIX,yr.no
-
-## Lampa
-DOMAIN-SUFFIX,filmix.my
-DOMAIN-SUFFIX,bwa.to
-DOMAIN-SUFFIX,batmen.my.to
-DOMAIN-SUFFIX,service-kp.com
-DOMAIN-SUFFIX,rezka.ag
-DOMAIN-SUFFIX,hdrezka.ag
-DOMAIN-SUFFIX,s2517.com
-DOMAIN-SUFFIX,lampa.stream
-DOMAIN-SUFFIX,werkecdn.me
-DOMAIN-SUFFIX,themoviedb.org
-durex.monster
-rootu.top
-kurwa-bober.ninja
-skaztv.online
-cub.red
-cub.rip
-workers.dev
-
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,canva.com
