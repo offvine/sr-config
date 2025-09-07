@@ -123,11 +123,9 @@ DOMAIN-SUFFIX,cub.red
 DOMAIN-SUFFIX,cub.rip
 DOMAIN-SUFFIX,durex.monster
 DOMAIN-SUFFIX,filmix.my
-DOMAIN-SUFFIX,hdrezka.ag
 DOMAIN-SUFFIX,kurwa-bober.ninja
 DOMAIN-SUFFIX,lampa.stream
 DOMAIN-SUFFIX,nackhui.com
-DOMAIN-SUFFIX,rezka.ag
 DOMAIN-SUFFIX,rootu.top
 DOMAIN-SUFFIX,s2517.com
 DOMAIN-SUFFIX,service-kp.com
@@ -137,6 +135,12 @@ DOMAIN-SUFFIX,werkecdn.me
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,filmixapp.vip
 DOMAIN-SUFFIX,filmixapp.cyou
+DOMAIN-SUFFIX,rezka.ag
+DOMAIN-SUFFIX,rezka.fi
+DOMAIN-SUFFIX,rezka.si
+DOMAIN-SUFFIX,hdrezka.ac
+DOMAIN-SUFFIX,hdrezka.ag
+DOMAIN-SUFFIX,hdrezka.me
 
 ## Other
 DOMAIN-SUFFIX,deepl.com
