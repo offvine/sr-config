@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 
 ## Facebook / Instagram / Meta
@@ -184,3 +185,4 @@ DOMAIN-SUFFIX,hentaihaven.xxx
 DOMAIN-SUFFIX,himg.nl
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,workflowy.com
