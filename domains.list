@@ -191,15 +191,5 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,matrix.org
 
 ## GitHub
-DOMAIN-SUFFIX,api.individual.githubcopilot.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,api.github.com
-DOMAIN-SUFFIX,uploads.github.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
-DOMAIN-SUFFIX,gist.githubusercontent.com
-DOMAIN-SUFFIX,codeload.github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,pkg.github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
