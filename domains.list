@@ -189,6 +189,9 @@ DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,utex.io
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,hostiger.com
+DOMAIN-SUFFIX,kilo.ai
+DOMAIN-SUFFIX,clawhub.ai
 
 ## GitHub
 DOMAIN-SUFFIX,githubusercontent.com
