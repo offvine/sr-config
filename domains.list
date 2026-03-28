@@ -194,6 +194,8 @@ DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,kilo.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,wisprflow.ai
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,customer.io
 
 ## GitHub
 DOMAIN-SUFFIX,githubusercontent.com
