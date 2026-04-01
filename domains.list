@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,meta.com
 ## SoundCloud
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,soundcloud.cloud
 
 ## Proton
 DOMAIN-SUFFIX,pm.me
@@ -201,7 +202,3 @@ DOMAIN-SUFFIX,customer.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
 
-## Soundcloud
-DOMAIN-SUFFIX,sndcdn.com
-DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,soundcloud.cloud
