@@ -200,3 +200,8 @@ DOMAIN-SUFFIX,customer.io
 ## GitHub
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
+
+## Soundcloud
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,soundcloud.cloud
