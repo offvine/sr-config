@@ -92,7 +92,7 @@ udp-policy-not-supported-behaviour = REJECT
 # include = sr_ru_extended.conf
 
 # URL-адрес обновления файла конфигурации
-update-url = https://cdn.jsdelivr.net/gh/misha-tgshv/shadowrocket-configuration-file@main/conf/sr_ru_geo.conf
+update-url = update-url = https://raw.githubusercontent.com/offvine/sr-config/main/sr_ru-direct.conf
 
 # Опционально. Добавьте эти адреса в настройках программы Settings → GeoLite2 Database
 # Если у вас нет аккаунта на Maxmind и вы испольузуете финальное правило Proxy или Auto
