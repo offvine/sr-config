@@ -15,7 +15,7 @@ always-real-ip=time.*.com,ntp.*.com,*.cloudflareclient.com
 icmp-auto-reply = false
 always-reject-url-rewrite = false
 udp-policy-not-supported-behaviour = REJECT
-update-url = https://raw.githubusercontent.com/offvine/sr-config/main/sr_ru-direct.conf
+update-url = https://raw.githubusercontent.com/offvine/sr-config/refs/heads/main/sr_ru-direct
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/offvine/sr-config/main/reject.list,REJECT
